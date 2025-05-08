@@ -1,2 +1,2 @@
 # OraQuadra-C-Version
-Versione in C dell'orologio OraQuadra di Davide Gatti - Survival Hacking
+Versione in C dell'orologio OraQuadra di Davide Gatti - Survival Hacking realizzata da Marco Vinci
